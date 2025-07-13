@@ -13,3 +13,6 @@ jobs:
       - name: Say Hello
         run: |
           echo "Workflow pornit cu succes!"
+      - name: say hello again
+        run: |
+          echo "Aici este al doile step in care salutam"
